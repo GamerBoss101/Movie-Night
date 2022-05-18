@@ -1,0 +1,29 @@
+{
+  "name": "movie-night",
+  "version": "1.0.0",
+  "description": "Discord Movie Night",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GamerBoss101/Movie-Night.git"
+  },
+  "keywords": [
+    "Movie",
+    "Discord"
+  ],
+  "author": "Sir Blob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GamerBoss101/Movie-Night/issues"
+  },
+  "homepage": "https://github.com/GamerBoss101/Movie-Night#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "socket.io": "^4.4.1"
+  }
+}
